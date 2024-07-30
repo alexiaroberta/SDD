@@ -1,0 +1,5 @@
+1,Popescu Ion,2500.50,2022-01-15
+2,Ionescu Maria,3200.75,2021-05-20
+1,Georgescu Ana,2750.00,2023-03-10
+3,Vasilescu Mihai,4000.25,2020-10-05
+2,Marin Vasile,3500.80,2019-12-11
